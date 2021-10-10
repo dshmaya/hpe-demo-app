@@ -62,7 +62,10 @@ public class Band {
 	public static String [] strings8 = {"first","second"};
 	public static String [] strings9 = {"first","second"};
 	
+	
+	
 	public String PASSWORD58 = "regression45";
+	public String PASSWORD581 = "regression451";
 	public String PASSWORD59 = "regression37";
 	public String PASSWORD60 = "regression360";
 	public String PASSWORD61 = "regression360";
@@ -82,6 +85,7 @@ public class Band {
 	public String PASSWORD61d = "regression45";
 	public String PASSWORD62d = "regression37";
 	public String PASSWORD63d = "regression360";
+	public String PASSWORD633 = "regression360";
 
 
 	public Band(JSONObject json) {

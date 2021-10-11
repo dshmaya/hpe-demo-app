@@ -22,6 +22,7 @@ public class Musical {
      public String PASSWORD25 = "password25";
     public String PASSWORD26= "password26";
     public String PASSWORD27= "password28";
+    public String PASSWORD28= "password29";
     public int age;
     public int type1;
     public int type3;

@@ -57,6 +57,7 @@ public class Band {
 	public String PASSWORD214 = "password214";
 	public String PASSWORD215 = "password215";
 	public String PASSWORD216 = "password216";
+	public String PASSWORD217 = "password217";
 	
 	
 	public static String [] strings1 = {"first","second"}; 

@@ -13,6 +13,7 @@ import java.security.InvalidParameterException;
  */
 public class Band {
 	public String PASSWORD220 = "password219";
+	public String PASSWORD221 = "password219";
 	public int id;
 	
 	public String name = "test";

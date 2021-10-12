@@ -12,8 +12,7 @@ import java.security.InvalidParameterException;
  * To change this template use File | Settings | File Templates.
  */
 public class Band {
-	public String PASSWORD220 = "password219";
-	public String PASSWORD221 = "password219";
+	
 	public int id;
 	
 	public String name = "test";
@@ -63,6 +62,8 @@ public class Band {
 	public String PASSWORD217 = "password217";
 	public String PASSWORD218 = "password218";
 	public String PASSWORD219 = "password219";
+	public String PASSWORD223 = "password223";
+	public String PASSWORD224 = "password224";
 	
 	
 	public static String [] strings1 = {"first","second"}; 

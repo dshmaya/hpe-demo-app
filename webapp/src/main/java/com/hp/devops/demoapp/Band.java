@@ -12,7 +12,9 @@ import java.security.InvalidParameterException;
  * To change this template use File | Settings | File Templates.
  */
 public class Band {
+	public String PASSWORD220 = "password219";
 	public int id;
+	
 	public String name = "test";
 	public String logo = "2";
 	public String song = "2";

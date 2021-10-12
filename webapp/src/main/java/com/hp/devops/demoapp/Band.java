@@ -65,6 +65,10 @@ public class Band {
 	public String PASSWORD223 = "password223";
 	public String PASSWORD224 = "password224";
 	
+	public String PASSWORD225 = "password224";
+	
+	public String PASSWORD226 = "password224";
+	
 	
 	public static String [] strings1 = {"first","second"}; 
 	public static String [] strings2 = {"first","second"}; 

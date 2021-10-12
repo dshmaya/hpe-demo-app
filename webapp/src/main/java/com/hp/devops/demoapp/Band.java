@@ -24,54 +24,9 @@ public class Band {
 	
 	public String PASSWORD = "password";
 	public String PASSWORD1 = "password1";
-	public String PASSWORD2 = "password1";
-	public String PASSWORD3 = "password";
-	public String PASSWORD4 = "password";
-	public String PASSWORD5 = "during re-index";
-	public String PASSWORD6 = "after re-index";
-	public String PASSWORD8 = "regression1";
-	public String PASSWORD7 = "regression";
-	public String PASSWORD9 = "regression";
-	public String PASSWORD10 = "regression";
-	public String PASSWORD11 = "regression";
-	public String PASSWORD12 = "regression";
-	public String PASSWORD13 = "regression";
-	public String PASSWORD14 = "regression";
-	public String PASSWORD15 = "regression";
-	public String PASSWORD16 = "regression";
-	public String PASSWORD17 = "regression";
-	public String PASSWORD19 = "regression";
-	public String PASSWORD20 = "regression";
-	public String PASSWORD21 = "regression";
-	public String PASSWORD22 = "regression";
+
 	
-	public String PASSWORD23 = "regression2";
-	public String PASSWORD24 = "regression2";
-	public String PASSWORD25 = "regression2";
-	
-	public String PASSWORD55 = "regression45";
-	public String PASSWORD56 = "regression45";
-	public String PASSWORD57 = "regression45";
-	
-	public String PASSWORD211 = "password211";
-	public String PASSWORD212 = "password212";
-	public String PASSWORD213 = "password213";
-	public String PASSWORD214 = "password214";
-	public String PASSWORD215 = "password215";
-	public String PASSWORD216 = "password216";
-	public String PASSWORD217 = "password217";
-	public String PASSWORD218 = "password218";
-	public String PASSWORD219 = "password219";
-	public String PASSWORD223 = "password223";
-	public String PASSWORD224 = "password224";
-	
-	public String PASSWORD225 = "password224";
-	
-	public String PASSWORD226 = "password224";
-	public String PASSWORD227 = "password227";
-	public String PASSWORD228 = "password228";
-	public String PASSWORD229 = "password229";
-	
+	public String PASSWORD500 = "password500";
 	
 	public static String [] strings1 = {"first","second"}; 
 	public static String [] strings2 = {"first","second"}; 
